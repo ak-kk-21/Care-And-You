@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "232880453118",
+    "project_id": "yc22-50bc6",
+    "storage_bucket": "yc22-50bc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232880453118:android:652b663bb85f0d94923caf",
+        "android_client_info": {
+          "package_name": "com.teamName.yc22"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDINULcgZGRFXvOgfGAg15ttFFGvxoCnrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

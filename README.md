@@ -1,19 +1,7 @@
-# Care-And-You
+# CareAndYou
 
-Project Title: Care&You
+A new Flutter project.
 
-UN SDG: Goal 3[Good Health and Well-Being]
+## Getting Started
 
-Team Members: Aarya Kulkarni, Adwita Jain, Eesha Kamath, Shrishti Chandak
-
-GDSC Chapter: MKSSS's Cummins College of Engineering for Women, Pune
-
-# How to install APK:
-
-Open the drive link through "Package Installer" on Android
-
-Allow Drive to install apps through settings
-
-Begin installation
-
-# Source code is present in the "flutterflow" branch
+FlutterFlow projects are built to run on the Flutter _stable_ release.
